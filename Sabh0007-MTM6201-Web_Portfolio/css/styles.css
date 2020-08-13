@@ -126,7 +126,7 @@ body {
 
 .portfolio .card{
     /*width: 25%;*/
-    min-height: 500px;
+    min-height: 650px;
     max-height: 500px;
     background: #fff;
     display: inline-block;
